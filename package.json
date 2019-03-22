@@ -1,0 +1,23 @@
+{
+  "name": "flashcards-1-single-deck-challenge",
+  "version": "1.0.0",
+  "description": "## Введение Мы собираемся создать приложение для флэш-карт, которое работает в точности как приложение, показанное на Рисунке 1, однако нет необходимости создавать его точную копию. У нас другая задача – сосредоточиться на написании элегантного, объектно-ориентированного кода, не забывая при этом о дизайнерских решениях и об отборе лучших методов действий.",
+  "main": "runner.js",
+  "dependencies": {
+    "csv-parse": "^4.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gennadiixd/flashcards-1-single-deck-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gennadiixd/flashcards-1-single-deck-challenge/issues"
+  },
+  "homepage": "https://github.com/Gennadiixd/flashcards-1-single-deck-challenge#readme"
+}
